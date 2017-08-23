@@ -1,0 +1,76 @@
+<!-- B1 01 02-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+    <tbody>
+        <tr>
+            <td height="20" align="center"></td>
+        </tr>
+        <tr>
+            <td width="300" align="center">
+                <table cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+                    <tbody>
+                        <tr>
+                            <td align="center">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff">
+                                    <tbody>
+                                        <tr>
+                                            <td width="300" height="300" valign="top" align="center">
+                                                <a href="#" style="text-decoration: none;" target="_blank" alias="#" alt="#">
+                                                    <img src="#" width="300" height="300" alt="#" title="#">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="15" align="center"></td>
+                                        </tr>
+                                        <table width="260" height="40" border="0" cellspacing="0" cellpadding="0" align="center">
+                                            <tr>
+                                                <td align="left" style="font-family: Museo sans, Helvetica, sans-serif; color:#707070;font-size:18px; padding: 0px 6px 0px 0px;">Random title</td>
+                                                <td align="center" width="100" style="-webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px;" bgcolor="#584f83"><a href="#" target="_blank" alias="Confira1" alt="Confira1" style="font-size: 14px; font-family: Museo sans, Helvetica, sans-serif;  color: #ffffff; font-weight: bold; text-decoration: none; color: #ffffff; text-decoration: none; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding: 12px 15px; display: block;">CONFIRA</a>
+                                                </td>
+                                            </tr>
+
+                                    </tbody>
+                                    </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                    </table>
+            </td>
+            <td width="300" align="center">
+                <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff">
+                    <tbody>
+                        <tr>
+                            <td align="center">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff">
+                                    <tbody>
+                                        <tr>
+                                            <td width="300" height="300" valign="top" align="center">
+                                                <a href="#" style="text-decoration: none;" target="_blank" alias="#" alt="#">
+                                                    <img src="#" width="300" height="300" alt="#" title="#">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="15" align="center"></td>
+                                        </tr>
+                                        <table width="260" height="40" border="0" cellspacing="0" cellpadding="0" align="center">
+                                            <tr>
+                                                <td align="left" style="font-family: Museo sans, Helvetica, sans-serif; color:#707070;font-size:18px; padding: 0px 6px 0px 0px;">Random title</td>
+                                                <td align="center" width="100" style="-webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px;" bgcolor="#584f83"><a href="#" target="_blank" alias="Confira2" alt="Confira2" style="font-size: 14px; font-family: Museo sans, Helvetica, sans-serif;  color: #ffffff; font-weight: bold; text-decoration: none; color: #ffffff; text-decoration: none; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding: 12px 15px; display: block;">CONFIRA</a>
+                                                </td>
+                                            </tr>
+                                    </tbody>
+                                    </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                    </table>
+            </td>
+
+        </tr>
+    </tbody>
+    <tr>
+        <td height="20" align="center"></td>
+    </tr>
+    </table>
+<!-- /B1 01 02--> 
