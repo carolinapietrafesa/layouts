@@ -1,0 +1,73 @@
+<!-- A5 -->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+    <tbody>
+        <tr>
+            <td height="10"></td>
+        </tr>
+        <tr>
+            <td align="right">
+                <table width="600" border="0" cellspacing="0" cellpadding="0">
+                    <tr valign="top">
+                        <td align="center">
+                            <table width="220" height="250" border="0" cellspacing="10" cellpadding="0">
+                                <tr>
+                                    <td colspan="2"><strong><span style="font-family:Arial, Helvetica, sans-serif; color:#e76a25; font-size:18px; text-align:right; text-transform:uppercase; border:0; ">Title</span></strong><br>
+                                    <p style="font-family:Arial, Helvetica, sans-serif;font-size:17px;color:#4d4d4d; text-align:right; line-height: 20px;">Talk about anything here</p></td>
+                                </tr>
+                                <tr>
+                                    <td height="40" colspan="2" valign="middle" align="center" style="-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 22px;" bgcolor="#359c9c"><a href="#" target="_blank" alias="B-Title" alt="B-Title" style="font-size: 18px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; color: #ffffff; text-decoration: none; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding: 12px 18px; border: 1px solid #359c9c; display: inline-block;"><strong>VEM VER</strong></a></td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="350" height="250" align="center">
+                            <a href="#" style=" text-decoration: none;" target="_blank" alias="#" alt="#">
+                                <img src="http://images.elo7.com.br/2017/emkt/novos/08/b1.jpg" width="350" height="250" border="0" alt="Title" title="Title" style="display:block;" />
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td height="10"></td>
+        </tr>
+    </tbody>
+</table>
+<!-- /A5 -->
+<!-- A5 -->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+    <tbody>
+        <tr>
+            <td height="20"></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <table width="600" border="0" cellspacing="0" cellpadding="0">
+                    <tr valign="top">
+                          <td width="350" height="250" align="center">
+                            <a href="#" style=" text-decoration: none;" target="_blank" alias="Title" alt="Title">
+                                <img src="http://images.elo7.com.br/2017/emkt/novos/08/b2.jpg" width="350" height="250" border="0" alt="Title" title="Title" style="display:block;" />
+                            </a>
+                        </td>
+                         <td align="center">
+                            <table width="200" height="250" border="0" cellspacing="10" cellpadding="0">
+                                <tr>
+                                    <td colspan="2"><strong><span style="font-family:Arial, Helvetica, sans-serif; color:#e76a25; font-size:18px; text-align:right; text-transform:uppercase; border:0; padding-right:5px;">Title</span>&nbsp;</strong><br>
+                                    <p style="font-family:Arial, Helvetica, sans-serif;font-size:17px;color:#4d4d4d; line-height: 20px;">Talk about anything here</p></td>
+                                </tr>
+                                <tr>
+                                    <td height="40" colspan="2" valign="middle" align="center" style="-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 22px;" bgcolor="#359c9c"><a href="#" target="_blank" alias="B-Title" alt="B-Title" style="font-size: 18px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; color: #ffffff; text-decoration: none; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding: 12px 18px; border: 1px solid #359c9c; display: inline-block;"><strong>VEM VER</strong></a></td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            
+        </tr>
+        <tr>
+            <td height="10"></td>
+        </tr>
+    </tbody>
+</table>
+<!-- /A5 -->
