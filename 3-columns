@@ -1,0 +1,34 @@
+<html>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+    <tbody>  
+        <body>
+        <tr>
+            <td height="15" align="center"></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <table width="200" height="200" border="0" cellspacing="0" cellpadding="0" align="center">
+                    <tr>
+                        <td width="200" height="200" valign="top" align="center">
+                            <td height="40" align="center" style="padding-left:10px; text-align:center;">
+                            <span style="font-family:Arial;color:#524947;font-size:16px;">Title</span>
+                            <a href="#" style="text-decoration: none;" target="_blank" alias="#" alt="#">
+                                <IMG src="#" width="200" height="200" alt="#" title="#" style="display:block;" border="0" />
+                                <td width="200" height="300" valign="top" align="center">
+                            <td height="40" align="center" style="padding-left:10px; text-align:center;">
+                            <span style="font-family:Arial;color:#524947;font-size:16px;">Title</span>
+                            <a href="#" style="text-decoration: none;" target="_blank" alias="#" alt="#">
+                                <IMG src="#" width="200" height="200" alt="#" title="#" style="display:block;" border="0" />
+                                <td width="200" height="300" valign="top" align="center">
+                            <td height="40" align="center" style="padding-left:10px; text-align:center;">
+                            <span style="font-family:Arial;color:#524947;font-size:16px;">Title</span>
+                            <a href="#" style="text-decoration: none;" target="_blank" alias="#" alt="#">
+                                <IMG src="#" width="200" height="200" alt="#" title="#" style="display:block;" border="0" />
+                                
+                               </td>
+                                </tr>
+                                </tr>
+                                
+    </tbody>
+          </body>
+</html>
