@@ -1,0 +1,42 @@
+
+<!doctype html>
+<html>
+<head>
+<title>Video in Email Test</title>
+<style type="text/css">
+ .video-wrapper {display:none;}
+ @media (-webkit-min-device-pixel-ratio: 0) and (min-device-width:1024px) 
+ {
+  .video-wrapper { display:block!important; }
+  .video-fallback { display:none!important; }
+ }
+  @supports (-webkit-overflow-scrolling:touch) and (color:#ffffffff) {
+    div[class^=video-wrapper] { display:block!important; }
+    div[class^=video-fallback] { display:none!important; }
+  }
+  #MessageViewBody .video-wrapper { display:block!important; }
+  #MessageViewBody .video-fallback { display:none!important; }
+</style>
+</head>
+<body>
+<B>Video in Email Test</B><BR>
+
+<!-- video section -->
+<div class="video-wrapper" style="display:none;">
+  <p>Video Content</p>
+<center><video width="460" height="300" controls="controls"  poster="http://www.emailonacid.com/images/blog_images/Emailology/2013/html5_video/bunny_cover.jpg" src="http://www.w3schools.com/html/mov_bbb.mp4" >
+      <!-- fallback 1 -->
+      <a href="http://www.emailonacid.com" ><img height="300" 
+        src="http://www.emailonacid.com/images/blog_images/Emailology/2013/html5_video/bunny_backup.jpg" width="460" /></a>
+</video></center>
+</div>
+
+<!-- fallback section -->
+<div class="video-fallback">
+  <p>Fallback Content</p>
+  <a href="http://www.emailonacid.com" ><img height="300" 
+    src="http://www.emailonacid.com/images/blog_images/Emailology/2013/html5_video/bunny_backup.jpg" width="460" /></a>
+</div>
+
+</body>
+</html>
