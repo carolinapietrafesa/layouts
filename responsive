@@ -1,8 +1,9 @@
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html><head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Elo7</title>
         <style type="text/css">
             body { width: 100% !important; }
@@ -42,7 +43,7 @@
                 .t-padding2{padding-top: 5px;}
                 .t-padding3{padding-top: 20px;}
                 .allpadding{padding: 4px !important;}
-                .allpadding2{padding: 1px !important;}
+                .allpadding2{padding: 4px !important;}
                 .allpadding3{padding: 8px;}
                 .leftpadding {padding-left: 10px}
                 .n-padding{padding: 5px !important;}
@@ -70,815 +71,790 @@
                 .paddingheader {padding: 2px !important;}
 			}
         </style>
-    </head>
-    
-    
-    
-    
-    
-    <body>
+      </head>
+      <body>
         <table cellpadding="0" cellspacing="0" border="0" width="100%" style="table-layout:fixed; background-color: #ffffff ">
-            <tr>
-                <td align="center" valign="top">
-                    <!--[if (gte mso 9)|(IE)]>
-                    <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
-                        <tr>
-                            <td>
-                                <![endif]-->
-                                <table cellpadding="0" cellspacing="0" border="0" align="center" style="width:100%; max-width:600px;" class="container">
-                                    <tr>
-                                        <td align="center" valign="top">
-											<!--Início do email-->
-                                            
-                                            
-                                            
-                                            
-     
-                                            
-                                            
-                                            
-                                            
-      
-                                            
-    <!--SEGUNDA PARTE-->                                         
-                                            
-                                            
-    <tr>
-          <td align="center" valign="top" bgcolor="#ffffff" style="background-color:#FFFFFF; padding:5px 15px 0 15px;" class="tp-layout paddinggeral" title="content">
-             
-            
-              
-           
-              
-              
-              
-            <!--Início Logo-->   
-              
-            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Elo7">
-                
-                
-             
-                <tbody><tr>
-                <td style="padding-bottom:10px">
-                  <table cellpadding="0" cellspacing="0" border="0" width="100%" align="left" class="full">
-                    
-                      
-                      
-                      
-                      
-             <!-- Disclaimer header -->
-<img src="https://pixel.inbox.exacttarget.com/pixel.gif?r=3ec9f0326f48e6cb3f505f25852e3fd69a26d75f&envio=dailyhojeeng015_2801_cheguei_IP4" width="1" height="1" />
-
-<img src="https://pixel.app.returnpath.net/pixel.gif?r=3ec9f0326f48e6cb3f505f25852e3fd69a26d75f&c=dailyhojeeng015_2801_cheguei_IP4" width="1" height="1" />
-
-<table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f2f2" >
-    <tbody>
-        <tr>
-            <td align="center">
-                <table width="100%" height="25" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f2f2" class="">
-                    <tr>
-                        <td align="left" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;color:#524947; text-align:center" class="">
-                            <p>Não consegue ver este email?
-                                <a style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; color:#E76A25; text-decoration:none;" alias="acesse este link" alt="acesse este link" title="acesse este link" href="%%view_email_url%%" conversion="false"><u>Acesse aqui.</u></a>
-                                <p>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        
-    </tbody>
-</table>
-<!-- /Disclaimer header -->
-<!-- Acesso conta -->
-<table width="100%" height="25" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
-    <tbody>
-        <tr>
-            <td style="line-height:0;font-size:0;" colspan="3" height="5"></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <table width="100%" height="25" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
-               
-                    <tr>
-                        <td align="left" style="font-family:'Helvetica', Arial, sans-serif;font-size:13px;color:#524947;">
-				            <p>
-				                <a href="%%unsub_center_url%%" alias="descadastre-se" alt="descadastre-se" style="color:#E76A25">Descadastre-se</a>
-				            </p>
-			            </td>
-					    <td align="right" style="font-family:'Helvetica', Arial, sans-serif;font-size:13px;color:#524947;">
-					        <a href="https://www.elo7.com.br/login.do?redirectAfterLogin=/" alias="Acesse sua conta" alt="Acesse sua conta" style="color:#E76A25">Acesse sua conta</a>
-					    </td>			            
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        <tr>
-            <td style="line-height:0;font-size:0;" colspan="3" height="5"></td>
-        </tr>
-    </tbody>
-</table>
-<!-- /Acesso conta -->         
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      <tbody><tr>
-                      <td align="center" class="m-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool">
-                          <tbody>
-                              
-                              <tr>
-                            <td><a href="http://www.elo7.com.br" alias="Elo7" alt="Elo7" target="_blank"><img src="http://images.elo7.com.br/2017/emkt/outros/42/logo.png" alt="" border="0" width="200" height="50" style="display:block"></td>
+          <tr>
+            <td align="center" valign="top">
+              <!--[if (gte mso 9)|(IE)]>
+              <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td>
+                    <![endif]-->
+                    <table cellpadding="0" cellspacing="0" border="0" align="center" style="width:100%; max-width:600px;" class="container">
+                      <tr>
+                        <td align="center" valign="top">
+                          <!--Início do email-->
+                          <tr>
+                            <td align="center" valign="top" bgcolor="#ffffff" 
+                    style="background-color:#FFFFFF; padding:5px 15px 0 15px;" 
+                    class="tp-layout paddinggeral" title="content">
+                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Elo7">
+                                <tbody>
+                                  <tr>
+                                    <td style="padding-bottom:10px">
+                                      <table cellpadding="0" cellspacing="0" border="0" width="100%" align="left" class="full">
+                                        <!-- Disclaimer header -->
+                                        <img src="https://pixel.inbox.exacttarget.com/pixel.gif?r=3ec9f0326f48e6cb3f505f25852e3fd69a26d75f&envio=dailyhojeeng015_2801_cheguei_IP4" width="1" height="1" />
+                                        <img src="https://pixel.app.returnpath.net/pixel.gif?r=3ec9f0326f48e6cb3f505f25852e3fd69a26d75f&c=dailyhojeeng015_2801_cheguei_IP4" width="1" height="1" />
+                                        <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f2f2" >
+                                          <tbody>
+                                            <tr>
+                                              <td align="center">
+                                                <table width="100%" height="25" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f2f2f2" class="">
+                                                  <tr>
+                                                    <td align="left" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;color:#524947; text-align:center" class="">
+                                                      <p>Não consegue ver este email?
                                 
-                          </tr>
-                          
-                                                   
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                    
-                
-                    
-                    
-                  
-                </td>
-              </tr>
-            </tbody></table>
-              
-             <!--Final Logo-->   
-              
-              
-              
-              
-              
-            <!--0 Início Menu-->
-                        <tr>
-                            <td align="center" valign="middle" style="padding:15px;">
-                                <table cellpadding="0" cellspacing="0" border="0" style="border:0px solid #000000;" class="">
-                                    <tr>
-                                        <td align="center" valign="middle"style="border-top:1px solid #a0a0a0;border-bottom:1px solid #a0a0a0" class="coll bordamobilebot ">
-                                            <table cellpadding="0" cellspacing="0" border="0" class="b-padding3">
-                                                <tr>
-                                                    <td align="center" class="allpadding3 " valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
-                                                        <a href="https://www.elo7.com.br/lista/tudo-para-seu-bebe?utm_campaign=bebe" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;">
-                                                            <span style="color:#E52C33; font-weight:bold; font-size:18px; font-family:Verdana, sans-serif;"></span> Bebê
+                                                        <a style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; color:#E76A25; text-decoration:none;" alias="acesse este link" alt="acesse este link" title="acesse este link" href="%%view_email_url%%" conversion="false">
+                                                          <u>Acesse aqui.</u>
                                                         </a>
-                                                    </td>
-                                                    
-                                                    <td align="center" class="allpadding3" valign="middle" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
-                                                        <a target="_blank" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; text-decoration:none;">
-                                                            <span style="color:#fcba33; font-weight:thin; font-size:18px; font-family:Verdana, sans-serif;">·</span> 
-                                                        </a>
-                                                    </td>
-                                                    
-                                                    <td align="center" class="allpadding3" valign="middle" style="color:#524947; font-family:Arial, sans-serif; font-size:14px; padding:8px;">
-                                                        <a href="https://www.elo7.com.br/lista/casamento?utm_campaign=casamento" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;">Casamento</a>
-                                                    </td>
-                                                    
-                                                    <td align="center" class="allpadding3 m-hide" valign="middle" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
-                                                        <a target="_blank" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; text-decoration:none;">
-                                                            <span style="color:#fcba33; font-weight:thin; font-size:18px; font-family:Verdana, sans-serif;">·</span> 
-                                                        </a>
-                                                    </td>
-                                                    
+                                                        <p>
+                                                        </td>
+                                                      </tr>
+                                                    </table>
+                                                  </td>
                                                 </tr>
+                                              </tbody>
                                             </table>
-                                        </td>
-                                        <td align="center" valign="middle" style="border-top:1px solid #a0a0a0;border-bottom:1px solid #a0a0a0" class="coll bordamobiletop">
-                                            <table cellpadding="0" cellspacing="0" border="0">
+                                            <!-- /Disclaimer header -->
+                                            <!-- Acesso conta -->
+                                            <table width="100%" height="25" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+                                              <tbody>
                                                 <tr>
-                                                    <td align="center" class="allpadding3" valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; padding:8px;">
-                                                        <a href="https://www.elo7.com.br/lista/decoracao-criativa?utm_campaign=decoracao" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;">Decor
-                                                        </a>
-                                                    </td>
-                                                    
-                                                    <td align="center" class="allpadding3" valign="middle" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
-                                                        <a target="_blank" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; text-decoration:none;">
-                                                            <span style="color:#fcba33; font-weight:thin; font-size:18px; font-family:Verdana, sans-serif;">·</span> 
-                                                        </a>
-                                                    </td>
-                                                    <td align="center" class="allpadding3" valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; padding:8px;">
-                                                        <a href="https://www.elo7.com.br/lista/festa?utm_campaign=festa" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;"> Festa
-                                                        </a>
-                                                    </td>
-                                                    
-                                                    <td align="center" class="allpadding3" valign="middle" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
-                                                        <a target="_blank" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; text-decoration:none;">
-                                                            <span style="color:#fcba33; font-weight:thin; font-size:18px; font-family:Verdana, sans-serif;">·</span> 
-                                                        </a>
-                                                    </td>
-                                                    
-                                                    <td align="center" class="allpadding" valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; padding:8px;">
-                                                        <a href="https://www.elo7.com.br/lista/infantil?utm_campaign=infant" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;"> Infantil
-                                                        </a>
-                                                    </td>
+                                                  <td style="line-height:0;font-size:0;" colspan="3" height="5"></td>
                                                 </tr>
+                                                <tr>
+                                                  <td align="center">
+                                                    <table width="100%" height="25" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+                                                      <tr>
+                                                        <td align="left" style="font-family:'Helvetica', Arial, sans-serif;font-size:13px;color:#524947;">
+                                                          <p>
+                                                            <a href="%%unsub_center_url%%" alias="descadastre-se" alt="descadastre-se" style="color:#E76A25">Descadastre-se</a>
+                                                          </p>
+                                                        </td>
+                                                        <td align="right" style="font-family:'Helvetica', Arial, sans-serif;font-size:13px;color:#524947;">
+                                                          <a href="https://www.elo7.com.br/login.do?redirectAfterLogin=/" alias="Acesse sua conta" alt="Acesse sua conta" style="color:#E76A25">Acesse sua conta</a>
+                                                        </td>
+                                                      </tr>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td style="line-height:0;font-size:0;" colspan="3" height="5"></td>
+                                                </tr>
+                                              </tbody>
                                             </table>
-                                            
-                                            
+                                            <!-- /Acesso conta -->
+                                            <!--Início Logo-->
+                                            <tbody>
+                                              <tr>
+                                                <td align="center" class="m-padding">
+                                                  <table cellpadding="0" cellspacing="0" border="0" class="cool">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td>
+                                                          <a href="http://www.elo7.com.br" alias="Elo7" alt="Elo7" target="_blank">
+                                                            <img src="http://images.elo7.com.br/2017/emkt/outros/42/logo.png" alt="" border="0" width="200" height="50" style="display:block">
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                      <!--Final Logo-->
+                                      <!--0 Início Menu-->
+                                      <tr>
+                                        <td align="center" valign="middle" style="padding:15px;">
+                                          <table cellpadding="0" cellspacing="0" border="0" style="border:0px solid #000000;" class="">
+                                            <tr>
+                                              <td align="center" valign="middle"style="border-top:1px solid #a0a0a0;border-bottom:1px solid #a0a0a0" class="">
+                                                <table cellpadding="0" cellspacing="0" border="0" class="b-padding3">
+                                                  <tr>
+                                                    <td align="center" class="allpadding2" valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
+                                                      <a href="https://www.elo7.com.br/lista/infantil?utm_campaign=infant" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;">
+                                                        <span style="color:#E52C33; font-weight:bold; font-size:18px; font-family:Verdana, sans-serif;"></span> Infantil
+                                                        
+                                                      </a>
+                                                    </td>
+                                                    <td align="center" class="allpadding2" valign="middle" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
+                                                      <a target="_blank" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; text-decoration:none;">
+                                                        <span style="color:#fcba33; font-weight:thin; font-size:18px; font-family:Verdana, sans-serif;">·</span>
+                                                      </a>
+                                                    </td>
+                                                    <td align="center" class="allpadding2" valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; padding:8px;">
+                                                      <a href="https://www.elo7.com.br/lista/festa?utm_campaign=festa" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;"> Festa
+                                                        </a>
+                                                    </td>
+                                                    <td align="center" class="allpadding2" valign="middle" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
+                                                      <a target="_blank" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; text-decoration:none;">
+                                                        <span style="color:#fcba33; font-weight:thin; font-size:18px; font-family:Verdana, sans-serif;">·</span>
+                                                      </a>
+                                                    </td>
+                                                  </tr>
+                                                </table>
+                                              </td>
+                                              <td align="center" valign="middle" style="border-top:1px solid #a0a0a0;border-bottom:1px solid #a0a0a0" class="">
+                                                <table cellpadding="0" cellspacing="0" border="0">
+                                                  <tr>
+                                                    <td align="center" class="allpadding2" valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; padding:8px;">
+                                                      <a href="https://www.elo7.com.br/lista/decoracao-criativa?utm_campaign=decoracao" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;">Decor
+                                                        </a>
+                                                    </td>
+                                                    <td align="center" class="allpadding2" valign="middle" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; padding:8px;">
+                                                      <a target="_blank" style="color:#000001; font-family:Verdana, sans-serif; font-size:15px; text-decoration:none;">
+                                                        <span style="color:#fcba33; font-weight:thin; font-size:18px; font-family:Verdana, sans-serif;">·</span>
+                                                      </a>
+                                                    </td>
+                                                    <td align="center" class="allpadding2" valign="middle" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; padding:8px;">
+                                                      <a href="https://www.elo7.com.br/lista/moda-feminina-especial?utm_campaign=moda" target="_blank" style="color:#524947; font-family:Verdana, sans-serif; font-size:14px; text-decoration:none;"> Moda
+                                                        </a>
+                                                    </td>
+                                                  </tr>
+                                                </table>
+                                              </td>
+                                            </tr>
+                                          </table>
                                         </td>
-                                        
-                                        
-                                      
-                                        
-                                        
-                                    </tr>
-                                </table>
-                            </td>
-                        </tr>
-                        <!--0 Fim Menu-->  
-              
-              
-              
-            <!--Início ImagenHeader-->   
-              
-            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
-             
-                <tbody><tr>
-                <td style="padding-bottom:20px">
-                  <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" class="full">
-                    
-                      
-                      <tbody><tr>
-                      <td align="center" class="m-padding b-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool">
-                          <tbody>
-                              
-                              <tr>
+                                      </tr>
+                                      <!--0 Fim Menu-->
+                                      <!--Header-->
+                                      <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
+                                        <tbody>
+                                          <tr>
+                                            <td style="padding-bottom:20px">
+                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" align="center" class="full">
+                                                <tbody>
+                                                  <tr>
+                                                    <td align="center" class="m-padding b-padding">
+                                                      <table cellpadding="0" cellspacing="0" border="0" class="cool">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td>
+                                                              <a href="https://www.elo7.com.br/lista/oferta?sortBy=1&mkt=true&fromCuratedStore=true&mktSort=plusCurated%3Dtrue&hasDiscount=true&utm_campaign=veja_mais" alias="São produtos por até R$30" alt="São produtos por até R$30" target="_blank">
+                                                                <img src="https://images.elo7.com.br/2018/emkt/daily/07/header2.jpg" alt="" border="0" width="600" height="auto" style="display:block" class="tp-edit">
+                                                                </td>
+                                                              </tr>
+                                                            </tbody>
+                                                          </table>
+                                                        </td>
+                                                      </tr>
+                                                    </tbody>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                          <!--Final ImagenHeader-->
+                                          <!--Início Chamada-->
+                                          <table cellpadding="0" cellspacing="0" border="0" width="100%" class="tp-block" title="Barra de Título">
+                                            <tbody>
+                                              <tr>
+                                                <td width="100%" style="font-family:'Raleway', sans-serif; font-size:17px; font-weight:100; color: #3E4142; padding-bottom: 20px; padding-left: 30px; padding-right: 30px; background-color:#ffffff;" align="center">
+                                                  <span class="tp-edit fontemobile">Depois desse chamado especial do Elo7 você só tem uma opção: APROVEITAR!
+
+</span>
+                                                </td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                          <!--Fim Chamada-->
+                                          <!--Início Linha1-->
+                                          <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Elo7">
+                                            <tbody>
+                                              <tr>
+                                                <td style="padding-bottom:30px">
+                                                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding leftpadding-desk">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td align="center" class="m-padding b-padding">
+                                                          <table cellpadding="0" cellspacing="0" border="0" class="cool">
+                                                            <tbody>
+                                                              <tr>
+                                                                <td align="center">
+                                                                  <a href="https://www.elo7.com.br/prateleira-canaleta-30cm-mdf-branco/dp/811755?utm_campaign=decor_util" alias="Produto" alt="Produto" target="_blank">
+                                                                    <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_01.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                    </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td align="center" class="b-padding2 b-padding-desk alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; text-align: left; font-weight:400; padding-top:10px">
+                                                                      <span class="tp-edit">Prateleira em MDF</span>
+                                                                    </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                      <span class="tp-edit">R$ 29,90</span>
+                                                                    </td>
+                                                                  </tr>
+                                                                  <tr>
+                                                                    <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                      <a href="https://www.elo7.com.br/prateleira-canaleta-30cm-mdf-branco/dp/811755?utm_campaign=decor_util" target="_blank">
+                                                                        <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                          <tbody>
+                                                                            <tr>
+                                                                              <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                  <span class="tp-edit">confira</span>
+                                                                                </font>
+                                                                              </td>
+                                                                              <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                  <span class="tp-edit">›</span>
+                                                                                </font>
+                                                                              </td>
+                                                                            </tr>
+                                                                          </tbody>
+                                                                        </table>
+                                                                      </td>
+                                                                    </tr>
+                                                                  </tbody>
+                                                                </table>
+                                                              </td>
+                                                            </tr>
+                                                          </tbody>
+                                                        </table>
+                                                        <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
+                                                          <tbody>
+                                                            <tr>
+                                                              <td align="center" class="m-padding">
+                                                                <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
+                                                                  <tbody>
+                                                                    <tr>
+                                                                      <td align="center">
+                                                                        <a href="https://www.elo7.com.br/cesto-organizador-porta-trecos/dp/B3B5C1?utm_campaign=decor_util" alias="Produto" alt="Produto" target="_blank">
+                                                                          <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_02.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                          </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                          <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px">
+                                                                            <span class="tp-edit">Cesto organizador</span>
+                                                                          </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                          <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                            <span class="tp-edit">R$ 15,90</span>
+                                                                          </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                          <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                            <a href="https://www.elo7.com.br/cesto-organizador-porta-trecos/dp/B3B5C1?utm_campaign=decor_util" target="_blank">
+                                                                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                                <tbody>
+                                                                                  <tr>
+                                                                                    <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                      <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                        <span class="tp-edit">confira</span>
+                                                                                      </font>
+                                                                                    </td>
+                                                                                    <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                      <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                        <span class="tp-edit">›</span>
+                                                                                      </font>
+                                                                                    </td>
+                                                                                  </tr>
+                                                                                </tbody>
+                                                                              </table>
+                                                                            </td>
+                                                                          </tr>
+                                                                        </tbody>
+                                                                      </table>
+                                                                    </td>
+                                                                  </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                      <!--Final linha 1-->
+                                                      <!--Início Linha2-->
+                                                      <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td style="padding-bottom:30px">
+                                                              <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding">
+                                                                <tbody>
+                                                                  <tr>
+                                                                    <td align="center" class="m-padding b-padding">
+                                                                      <table cellpadding="0" cellspacing="0" border="0" class="cool leftpadding-desk">
+                                                                        <tbody>
+                                                                          <tr>
+                                                                            <td align="center">
+                                                                              <a href="https://www.elo7.com.br/carimbo-logo/dp/A09687?utm_campaign=acess_papel" alias="Produto" alt="Produto" target="_blank">
+                                                                                <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_03.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                                </td>
+                                                                              </tr>
+                                                                              <tr>
+                                                                                <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px">
+                                                                                  <span class="tp-edit">Carimbo logo</span>
+                                                                                </td>
+                                                                              </tr>
+                                                                              <tr>
+                                                                                <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                                  <span class="tp-edit">R$ 30,00</span>
+                                                                                </td>
+                                                                              </tr>
+                                                                              <tr>
+                                                                                <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                                  <a href="https://www.elo7.com.br/carimbo-logo/dp/A09687?utm_campaign=acess_papel" target="_blank">
+                                                                                    <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                                      <tbody>
+                                                                                        <tr>
+                                                                                          <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                            <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                              <span class="tp-edit">confira</span>
+                                                                                            </font>
+                                                                                          </td>
+                                                                                          <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                            <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                              <span class="tp-edit">›</span>
+                                                                                            </font>
+                                                                                          </td>
+                                                                                        </tr>
+                                                                                      </tbody>
+                                                                                    </table>
+                                                                                  </td>
+                                                                                </tr>
+                                                                              </tbody>
+                                                                            </table>
+                                                                          </td>
+                                                                        </tr>
+                                                                      </tbody>
+                                                                    </table>
+                                                                    <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
+                                                                      <tbody>
+                                                                        <tr>
+                                                                          <td align="center" class="m-padding">
+                                                                            <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
+                                                                              <tbody>
+                                                                                <tr>
+                                                                                  <td align="center">
+                                                                                    <a href="https://www.elo7.com.br/carteira-porta-celular/dp/B193AF?utm_campaign=acess_util" alias="Produto" alt="Produto" target="_blank">
+                                                                                      <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_04.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                                      </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                      <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px">
+                                                                                        <span class="tp-edit">Carteira para celular</span>
+                                                                                      </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                      <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                                        <span class="tp-edit">R$ 30,00</span>
+                                                                                      </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                      <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                                        <a href="https://www.elo7.com.br/carteira-porta-celular/dp/B193AF?utm_campaign=acess_util" target="_blank">
+                                                                                          <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                                            <tbody>
+                                                                                              <tr>
+                                                                                                <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                                  <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                    <span class="tp-edit">confira</span>
+                                                                                                  </font>
+                                                                                                </td>
+                                                                                                <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                                  <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                    <span class="tp-edit">›</span>
+                                                                                                  </font>
+                                                                                                </td>
+                                                                                              </tr>
+                                                                                            </tbody>
+                                                                                          </table>
+                                                                                        </td>
+                                                                                      </tr>
+                                                                                    </tbody>
+                                                                                  </table>
+                                                                                </td>
+                                                                              </tr>
+                                                                            </tbody>
+                                                                          </table>
+                                                                        </td>
+                                                                      </tr>
+                                                                    </tbody>
+                                                                  </table>
+                                                                  <!--Final linha 2-->
+                                                                  <!--Início Linha3-->
+                                                                  <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
+                                                                    <tbody>
+                                                                      <tr>
+                                                                        <td style="padding-bottom:30px">
+                                                                          <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding">
+                                                                            <tbody>
+                                                                              <tr>
+                                                                                <td align="center" class="m-padding b-padding">
+                                                                                  <table cellpadding="0" cellspacing="0" border="0" class="cool leftpadding-desk">
+                                                                                    <tbody>
+                                                                                      <tr>
+                                                                                        <td align="center">
+                                                                                          <a href="https://www.elo7.com.br/anel-de-vidro-50-off-promocao/dp/1E5432?utm_campaign=moda_acess" alias="Produto" alt="Produto" target="_blank">
+                                                                                            <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_05.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                                            </td>
+                                                                                          </tr>
+                                                                                          <tr>
+                                                                                            <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px">
+                                                                                              <span class="tp-edit">Anel de vidro </span>
+                                                                                            </td>
+                                                                                          </tr>
+                                                                                          <tr>
+                                                                                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                                              <span class="tp-edit">R$ 26,95</span>
+                                                                                            </td>
+                                                                                          </tr>
+                                                                                          <tr>
+                                                                                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                                              <a href="https://www.elo7.com.br/anel-de-vidro-50-off-promocao/dp/1E5432?utm_campaign=moda_acess" target="_blank">
+                                                                                                <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                                                  <tbody>
+                                                                                                    <tr>
+                                                                                                      <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                                        <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                          <span class="tp-edit">confira</span>
+                                                                                                        </font>
+                                                                                                      </td>
+                                                                                                      <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                                        <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                          <span class="tp-edit">›</span>
+                                                                                                        </font>
+                                                                                                      </td>
+                                                                                                    </tr>
+                                                                                                  </tbody>
+                                                                                                </table>
+                                                                                              </td>
+                                                                                            </tr>
+                                                                                          </tbody>
+                                                                                        </table>
+                                                                                      </td>
+                                                                                    </tr>
+                                                                                  </tbody>
+                                                                                </table>
+                                                                                <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
+                                                                                  <tbody>
+                                                                                    <tr>
+                                                                                      <td align="center" class="m-padding">
+                                                                                        <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
+                                                                                          <tbody>
+                                                                                            <tr>
+                                                                                              <td align="center">
+                                                                                                <a href="https://www.elo7.com.br/pequenos-adesivos-nuvem/dp/967481?utm_campaign=infant_decor" alias="Produto" alt="Produto" target="_blank">
+                                                                                                  <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_06.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                                                  </td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                  <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px">
+                                                                                                    <span class="tp-edit">Adesivo infantil </span>
+                                                                                                  </td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                  <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                                                    <span class="tp-edit">R$ 29,90</span>
+                                                                                                  </td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                  <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                                                    <a href="https://www.elo7.com.br/pequenos-adesivos-nuvem/dp/967481?utm_campaign=infant_decor" target="_blank">
+                                                                                                      <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                                                        <tbody>
+                                                                                                          <tr>
+                                                                                                            <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                                              <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                                <span class="tp-edit">confira</span>
+                                                                                                              </font>
+                                                                                                            </td>
+                                                                                                            <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                                              <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                                <span class="tp-edit">›</span>
+                                                                                                              </font>
+                                                                                                            </td>
+                                                                                                          </tr>
+                                                                                                        </tbody>
+                                                                                                      </table>
+                                                                                                    </td>
+                                                                                                  </tr>
+                                                                                                </tbody>
+                                                                                              </table>
+                                                                                            </td>
+                                                                                          </tr>
+                                                                                        </tbody>
+                                                                                      </table>
+                                                                                    </td>
+                                                                                  </tr>
+                                                                                </tbody>
+                                                                              </table>
+                                                                              <!--Final linha 3-->
+                                                                              <!--Início Linha4-->
+                                                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
+                                                                                <tbody>
+                                                                                  <tr>
+                                                                                    <td style="padding-bottom:30px">
+                                                                                      <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding">
+                                                                                        <tbody>
+                                                                                          <tr>
+                                                                                            <td align="center" class="m-padding b-padding">
+                                                                                              <table cellpadding="0" cellspacing="0" border="0" class="cool leftpadding-desk">
+                                                                                                <tbody>
+                                                                                                  <tr>
+                                                                                                    <td align="center">
+                                                                                                      <a href="https://www.elo7.com.br/planner-ilustrado-12-meses-2018-baixe-e-imprima/dp/B0E1C1?utm_campaign=acess_papel" alias="Produto" alt="Produto" target="_blank">
+                                                                                                        <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_07.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                                                        </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                        <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px">
+                                                                                                          <span class="tp-edit">Planner '12 meses' </span>
+                                                                                                        </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                        <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                                                          <span class="tp-edit">R$ 26,95</span>
+                                                                                                        </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                        <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                                                          <a href="https://www.elo7.com.br/planner-ilustrado-12-meses-2018-baixe-e-imprima/dp/B0E1C1?utm_campaign=acess_papel" target="_blank">
+                                                                                                            <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                                                              <tbody>
+                                                                                                                <tr>
+                                                                                                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                                                    <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                                      <span class="tp-edit">confira</span>
+                                                                                                                    </font>
+                                                                                                                  </td>
+                                                                                                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                                                    <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                                      <span class="tp-edit">›</span>
+                                                                                                                    </font>
+                                                                                                                  </td>
+                                                                                                                </tr>
+                                                                                                              </tbody>
+                                                                                                            </table>
+                                                                                                          </td>
+                                                                                                        </tr>
+                                                                                                      </tbody>
+                                                                                                    </table>
+                                                                                                  </td>
+                                                                                                </tr>
+                                                                                              </tbody>
+                                                                                            </table>
+                                                                                            <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
+                                                                                              <tbody>
+                                                                                                <tr>
+                                                                                                  <td align="center" class="m-padding">
+                                                                                                    <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
+                                                                                                      <tbody>
+                                                                                                        <tr>
+                                                                                                          <td align="center">
+                                                                                                            <a href="https://www.elo7.com.br/caderno-lyon/dp/7973E5?utm_campaign=acess_papel" alias="Produto" alt="Produto" target="_blank">
+                                                                                                              <img src="https://images.elo7.com.br/2018/emkt/daily/07/produto_08.jpg" alt="" border="0" width="255" height="255" style="display:block" class="tp-edit">
+                                                                                                              </td>
+                                                                                                            </tr>
+                                                                                                            <tr>
+                                                                                                              <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px">
+                                                                                                                <span class="tp-edit">Caderno estampado  </span>
+                                                                                                              </td>
+                                                                                                            </tr>
+                                                                                                            <tr>
+                                                                                                              <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;">
+                                                                                                                <span class="tp-edit">R$ 29,90</span>
+                                                                                                              </td>
+                                                                                                            </tr>
+                                                                                                            <tr>
+                                                                                                              <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo">
+                                                                                                                <a href="https://www.elo7.com.br/caderno-lyon/dp/7973E5?utm_campaign=acess_papel" target="_blank">
+                                                                                                                  <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
+                                                                                                                    <tbody>
+                                                                                                                      <tr>
+                                                                                                                        <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;">
+                                                                                                                          <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                                            <span class="tp-edit">confira</span>
+                                                                                                                          </font>
+                                                                                                                        </td>
+                                                                                                                        <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide">
+                                                                                                                          <font face="'Raleway',Helvetica,Arial,sans-serif">
+                                                                                                                            <span class="tp-edit">›</span>
+                                                                                                                          </font>
+                                                                                                                        </td>
+                                                                                                                      </tr>
+                                                                                                                    </tbody>
+                                                                                                                  </table>
+                                                                                                                </td>
+                                                                                                              </tr>
+                                                                                                            </tbody>
+                                                                                                          </table>
+                                                                                                        </td>
+                                                                                                      </tr>
+                                                                                                    </tbody>
+                                                                                                  </table>
+                                                                                                </td>
+                                                                                              </tr>
+                                                                                            </tbody>
+                                                                                          </table>
+                                                                                          <!--Final linha 4-->
+                                                                                          <!-- Recomendados -->
+                                                                                          <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
+                                                                                            <tbody>
+                                                                                              <tr>
+                                                                                                <td height="20"></td>
+                                                                                              </tr>
+                                                                                              <tr>
+                                                                                                <td valign="top" align="center">
+                                                                                                  <a href="#" alias="Recomendados especialmente para você!" alt="Recomendados especialmente para você!" target="_blank">
+                                                                                                    <img src="http://images.elo7.com.br/2016/emkt/outros/45/recomendadosb.jpg" width="100%" height="auto" alt="Recomendados especialmente para você!" title="Recomendados especialmente para você!" style="display:block;" border="0" />
+                                                                                                  </a>
+                                                                                                </td>
+                                                                                              </tr>
+                                                                                              <tr>
+                                                                                                <td height="20"></td>
+                                                                                              </tr>
+                                                                                            </tbody>
+                                                                                          </table>
+                                                                                          <!-- /Recomendados -->
+                                                                                          <!-- Chaordic -->
+                                                                                          <table class="chaordic-api-widget" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                                                            <tr>
+                                                                                              <td class="chaordic-api-widget-product chaordic-api-widget-product-1" width="50%" align="center">
+                                                                                                <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/1?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
+                                                                                                  <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/1.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
+                                                                                                </a>
+                                                                                              </td>
+                                                                                              <td class="chaordic-api-widget-product chaordic-api-widget-product-2" width="50%" align="center">
+                                                                                                <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/2?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
+                                                                                                  <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/2.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
+                                                                                                </a>
+                                                                                              </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                              <td class="chaordic-api-widget-product chaordic-api-widget-product-3" width="50%" align="center">
+                                                                                                <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/3?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
+                                                                                                  <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/3.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
+                                                                                                </a>
+                                                                                              </td>
+                                                                                              <td class="chaordic-api-widget-product chaordic-api-widget-product-4" width="50%" align="center">
+                                                                                                <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/4?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
+                                                                                                  <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/4.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
+                                                                                                </a>
+                                                                                              </td>
+                                                                                            </tr>
+                                                                                          </table>
+                                                                                          <!-- /Chaordic -->
+                                                                                          <!-- lojista -->
+                                                                                          <table width="100%" height="auto" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+                                                                                            <tbody>
+                                                                                              <tr>
+                                                                                                <td width="100%" height="1" style="background-color:#e3e3e3;"></td>
+                                                                                              </tr>
+                                                                                              <tr>
+                                                                                                <td align="center">
+                                                                                                  <a href="http://elo7.com.br/newUserAccount.do?userType=seller" target="_blank" alias="Lojista" alt="Lojista" style="text-decoration: none;">
+                                                                                                    <img src="http://files.elo7.com.br.s3.amazonaws.com/_2015/emkt/base/lojista.jpg" width="435" height="30" alt="Quer vender suas criações no Elo7?" border="0" style="display:block;" />
+                                                                                                  </a>
+                                                                                                </td>
+                                                                                              </tr>
+                                                                                            </tbody>
+                                                                                          </table>
+                                                                                          <!-- /lojista -->
+                                                                                          <!-- Social -->
+                                                                                          <table width="100%" height="70" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f8f8f8">
+                                                                                            <tbody>
+                                                                                              <tr>
+                                                                                                <td width="100%" height="1" style="background-color:#e3e3e3;" align="center"></td>
+                                                                                              </tr>
+                                                                                              <tr>
+                                                                                                <td height="15"></td>
+                                                                                              </tr>
+                                                                                              <tr>
+                                                                                                <td align="center">
+                                                                                                  <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f8f8f8">
+                                                                                                    <tr>
+                                                                                                      <td align="center" class="botaopadding">
+                                                                                                        <a href="https://www.facebook.com/Elo7br" alias="facebook" alt="facebook" style="text-decoration:none; padding-right: 20px;">
+                                                                                                          <img src="http://images.elo7.com.br/2015/emkt/base/v3/facebook.png" alt="facebook" title="facebook" border="0" />
+                                                                                                        </a>
+                                                                                                        <a href="http://instagram.com/elo7br" alias="instagram" alt="instagram" style="text-decoration:none; padding-right: 20px;">
+                                                                                                          <img src="http://images.elo7.com.br/2015/emkt/base/v3/instagram.png" alt="instagram" title="instagram" border="0" />
+                                                                                                        </a>
+                                                                                                        <a href="http://elo7.me/youtube_elo7" alias="youtube" alt="youtube" style="text-decoration:none; padding-right: 20px;">
+                                                                                                          <img src="http://images.elo7.com.br/2015/emkt/base/v3/youtube.png" alt="youtube" title="youtube" border="0" />
+                                                                                                        </a>
+                                                                                                        <a href="http://pinterest.com/elo7br" alias="pinterest" alt="pinterest" style="text-decoration:none; padding-right: 20px;">
+                                                                                                          <img src="http://images.elo7.com.br/2015/emkt/base/v3/pinterest.png" alt="pinterest" title="pinterest" border="0" />
+                                                                                                        </a>
+                                                                                                        <a href="http://blog.elo7.com.br/" alias="blog" alt="blog" style="text-decoration:none">
+                                                                                                          <img src="http://images.elo7.com.br/2015/emkt/base/v3/blog.png" alt="blog" title="blog" border="0" />
+                                                                                                        </a>
+                                                                                                      </td>
+                                                                                                    </tr>
+                                                                                                  </table>
+                                                                                                </td>
+                                                                                              </tr>
+                                                                                            </tbody>
+                                                                                          </table>
+                                                                                          <!-- /Social -->
+                                                                                          <!-- Disclaimer footer -->
+                                                                                          <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#f8f8f8">
+                                                                                            <tbody>
+                                                                                              <tr>
+                                                                                                <td width="20"></td>
+                                                                                                <td>
+                                                                                                  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#f8f8f8">
+                                                                                                    <tr>
+                                                                                                      <td height="15"></td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                      <td align="center">
+                                                                                                        <p align="center" style="font-family:'Arial', Helvetica, sans-serif; font-size:12px; line-height:15px; color:#524947 ">
+                                Você recebeu esta mensagem, pois aceitou receber e-mails promocionais do Elo7. Se não quiser mais receber e-mails, 
+                                                                                                          <a href="%%unsub_center_url%%" alias="Descadastre-se da Elo7" alt="Descadastre-se da Elo7" style="color:#E76A25; font-size: 12px;">descadastre-se</a>.
                             
-                            
-                            <td><a href="https://www.elo7.com.br/lista/quadros-e-posteres?sortBy=1&mkt=true&mktSort=plusCurated" alias="DECORE COM QUADROS E PÔSTERES!" alt="DECORE COM QUADROS E PÔSTERES!" target="_blank"><img src="http://images.elo7.com.br/2018/emkt/decor/08/b/bheader.jpg" alt="DECORE COM QUADROS E PÔSTERES!" border="0" width="600" height="auto" style="display:block" class="tp-edit"></td>
-                                  
-                                  
-                          </tr>
-                          
-                                                   
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                    
-                
-                    
-                    
-                  
-                </td>
-              </tr>
-            </tbody></table>
-              
-             <!--Final ImagenHeader-->                                          
-      
-              
-              
-              
-            <!--Início Chamada-->  
-              
-            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="tp-block" title="Barra de Título">
-              <tbody><tr>
-                <td width="100%" style="font-family:'Raleway', sans-serif; font-size:17px; font-weight:100; color: #3E4142; padding-bottom: 20px; padding-left: 30px; padding-right: 30px; background-color:#ffffff;" align="center"><span class="tp-edit fontemobile">Itens decorativos que fazem total diferente nos ambientes da sua casa. Personalize o seu aqui, vem cá!</span> 
-                  </td>
-              </tr>
-            </tbody></table>
-              
-            <!--Fim Chamada--> 
-              
-              
-            
-              
-            
-              
-              
-              
-              
-              
-              
-              
-              
-            <!--Início Linha1-->   
-              
-            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Elo7">
-             
-                <tbody><tr>
-                <td style="padding-bottom:30px">
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding leftpadding-desk">
-                    <tbody><tr>
-                      <td align="center" class="m-padding b-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool">
-                          <tbody>
-                              <tr>
-                            <td align="center"><a href="https://www.elo7.com.br/good-vibes/dp/9541C4?utm_campaign=decor_casa" alias="Quadro 'Good vibes'" alt="Quadro 'Good vibes'" target="_blank">
-                                <img src="http://images.elo7.com.br/2018/emkt/decor/08/b/01.jpg" alt="Quadro 'Good vibes'" border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="center" class="b-padding2 b-padding-desk alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; text-align: left; font-weight:400; padding-top:10px"><span class="tp-edit">Quadro 'Good vibes'</span></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 39,90</span></td> 
-                          </tr>
-                         
-                          <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"><a href="https://www.elo7.com.br/good-vibes/dp/9541C4?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                    
-                
-                    
-                    
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
-                    <tbody><tr>
-                      <td align="center" class="m-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
-                          <tbody><tr>
-                            <td align="center"><a href="https://www.elo7.com.br/lightbox-quadro-luminoso-seja-luz/dp/8C839F?utm_campaign=decor_casa" alias="Lightbox 'Seja luz'" alt="Lightbox 'Seja luz'" target="_blank"><img src="http://images.elo7.com.br/2018/emkt/decor/08/b/02.jpg" alt="Lightbox 'Seja luz'" border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px"><span class="tp-edit">Lightbox 'Seja luz'</span></td>
-                          </tr>
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 139,00</span></td> 
-                          </tr>
-                           <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"><a href="https://www.elo7.com.br/lightbox-quadro-luminoso-seja-luz/dp/8C839F?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-              
-             <!--Final linha 1-->  
-              
-              
-              <!--Início Linha2-->   
-              
-            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
-             
-                <tbody><tr>
-                <td style="padding-bottom:30px">
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding">
-                    <tbody><tr>
-                      <td align="center" class="m-padding b-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool leftpadding-desk">
-                          <tbody><tr>
-                            <td align="center"><a href="https://www.elo7.com.br/conjunto-3-quadros-botanique-tam-a3/dp/9CAFF5?utm_campaign=decor_casa" alias="Conjunto de quadros" alt="Conjunto de quadros" target="_blank">
-                                <img src="http://images.elo7.com.br/2018/emkt/decor/08/b/03.jpg" alt="Conjunto de quadros" border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px"><span class="tp-edit">Conjunto de quadros</span></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 269,90</span></td> 
-                          </tr>
-                         
-                          <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"><a href="https://www.elo7.com.br/conjunto-3-quadros-botanique-tam-a3/dp/9CAFF5?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                    
-                
-                    
-                    
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
-                    <tbody><tr>
-                      <td align="center" class="m-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
-                          <tbody><tr>
-                            <td align="center"><a href="https://www.elo7.com.br/kit-quadros-infantil-animais-fofinhos/dp/AB6FC9?utm_campaign=decor_casa" alias="Kit de quadros infantis" alt="Kit de quadros infantis" target="_blank">
-                                <img src="http://images.elo7.com.br/2018/emkt/decor/08/b/04.jpg" alt="Kit de quadros infantis" border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px"><span class="tp-edit">Conjunto de quadros</span></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 240,00</span></td> 
-                          </tr>
-                         
-                          <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"> <a href="https://www.elo7.com.br/kit-quadros-infantil-animais-fofinhos/dp/AB6FC9?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-              
-             <!--Final linha 2-->  
-              
-              
-            <!--Início Linha3-->   
-              
-            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
-             
-                <tbody><tr>
-                <td style="padding-bottom:30px">
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding">
-                    <tbody><tr>
-                      <td align="center" class="m-padding b-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool leftpadding-desk">
-                          <tbody><tr>
-                            <td align="center"><a href="https://www.elo7.com.br/poster-com-moldura-we-stick-together/dp/958225?utm_campaign=decor_casa" alias="Pôster 'We stick together'" alt="Pôster 'We stick together'" target="_blank">
-                                <img src="http://images.elo7.com.br/2018/emkt/decor/08/b/05.jpg" alt="Pôster 'We stick together'" border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px"><span class="tp-edit">Pôster 'We stick together'</span></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 39,90</span></td> 
-                          </tr>
-                         
-                          <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"><a href="https://www.elo7.com.br/poster-com-moldura-we-stick-together/dp/958225?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                    
-                
-                    
-                    
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
-                    <tbody><tr>
-                      <td align="center" class="m-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
-                          <tbody><tr>
-                            <td align="center"><a href="https://www.elo7.com.br/poster-com-moldura-laqueada/dp/7FEE10?utm_campaign=decor_casa" alias="Pôster com moldura " alt="Pôster com moldura " target="_blank">
-                                <img src="http://images.elo7.com.br/2018/emkt/decor/08/b/06.jpg" alt="Pôster com moldura " border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px"><span class="tp-edit">Pôster com moldura </span></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 39,00</span></td> 
-                          </tr>
-                         
-                          <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"> <a href="https://www.elo7.com.br/poster-com-moldura-laqueada/dp/7FEE10?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-              
-             <!--Final linha 3-->    
-            
-            
-              <!--Início Linha4-->   
-              
-            <table cellpadding="0" cellspacing="0" border="0" width="100%" class="cool" title="Duas Notícias">
-             
-                <tbody><tr>
-                <td style="padding-bottom:30px">
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="left" class="full b-padding">
-                    <tbody><tr>
-                      <td align="center" class="m-padding b-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool leftpadding-desk">
-                          <tbody><tr>
-                            <td align="center"><a href="https://www.elo7.com.br/poster-com-moldura-mr-mrs/dp/6F6B6A?utm_campaign=decor_casa" alias="Pôster 'Mr & Mrs'" alt="Pôster 'Mr & Mrs'" target="_blank">
-                                <img src="http://images.elo7.com.br/2018/emkt/decor/08/b/07.jpg" alt="Pôster 'Mr & Mrs'" border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk b-padding2 alinhacentro" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px"><span class="tp-edit">Pôster 'Mr & Mrs'</span></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 49,90</span></td> 
-                          </tr>
-                         
-                          <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"><a href="https://www.elo7.com.br/poster-com-moldura-mr-mrs/dp/6F6B6A?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                    
-                
-                    
-                    
-                  <table cellpadding="0" cellspacing="0" border="0" width="47.5%" align="right" class="full">
-                    <tbody><tr>
-                      <td align="center" class="m-padding">
-                        <table cellpadding="0" cellspacing="0" border="0" class="cool t-padding rightpadding-desk">
-                          <tbody><tr>
-                            <td align="center"><a href="https://www.elo7.com.br/poster-decoracao/dp/5FBC6D?utm_campaign=decor_casa" alias="Pôster hipster" alt="Pôster hipster" target="_blank">
-                                <img src="http://images.elo7.com.br/2018/emkt/decor/08/b/08.jpg" alt="Pôster hipster" border="0" width="255" height="255" style="display:block" class="tp-edit"></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color: #fcba33; font-family:'Raleway', Helvetica, sans-serif; font-size: 20px; font-weight:400; padding-top:10px"><span class="tp-edit">Pôster hipster</span></td>
-                          </tr>
-                          
-                          <tr>
-                            <td align="left" class="b-padding-desk alinhacentro b-padding2" valign="middle" style="color:#808080; font-family: 'Raleway', Helvetica, sans-serif; font-size: 18px;"><span class="tp-edit">R$ 29,90</span></td> 
-                          </tr>
-                         
-                          <tr>
-                            <td bgcolor="#fcba33" align="left" style="border:0x solid #fcba33;" class="cantoredondo"> <a href="https://www.elo7.com.br/poster-decoracao/dp/5FBC6D?utm_campaign=decor_casa" target="_blank">
-                              <table cellpadding="0" cellspacing="0" border="0" align="left" valign="center" width="100%" class="t-padding2 b-padding2 t-padding-desk">
-                                <tbody><tr>                                                                
-                                  <td class="alinhacentro" width="58%" align="right" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:18px; font-weight: 100; padding:5px 0px;"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">confira</span></font></td>
-                                    
-                                  <td width="42%" align="left" style="color: #ffffff; font-family:'Raleway', Helvetica, sans-serif; font-size:21px; font-weight: 400; padding:10px 10px;" class="hide"><font face="'Raleway',Helvetica,Arial,sans-serif"><span class="tp-edit">›</span></font></td>  
-                                </tr>
-                              </tbody></table>
-                            </td>
-                          </tr>
-                        </tbody></table>
-                      </td>
-                    </tr>
-                  </tbody></table>
-                </td>
-              </tr>
-            </tbody></table>
-              
-             <!--Final linha 4-->  
-              
-         
-              
-              
-              
-             <!-- Recomendados -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#ffffff">
-    <tbody>
-        <tr>
-            <td height="20">
- </td>
-        </tr>
-
- <tr>
-            <td valign="top" align="center">
-                <a href="#" alias="Recomendados especialmente para você!" alt="Recomendados especialmente para você!" target="_blank">
-                    <img src="http://images.elo7.com.br/2016/emkt/outros/45/recomendadosb.jpg" width="100%" height="auto" alt="Recomendados especialmente para você!" title="Recomendados especialmente para você!" style="display:block;" border="0" />
-                </a>
-            </td>
-        </tr>
-  <tr>
-            <td height="20">
- </td>
-        </tr>
-    </tbody>
-</table>
-<!-- /Recomendados -->
-
-<!-- Chaordic -->
-<table class="chaordic-api-widget" cellspacing="0" cellpadding="0" border="0" width="100%">
-  <tr>
-    <td class="chaordic-api-widget-product chaordic-api-widget-product-1" width="50%" align="center">
-      <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/1?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
-        <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/1.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
-      </a>
-    </td>
-    <td class="chaordic-api-widget-product chaordic-api-widget-product-2" width="50%" align="center">
-      <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/2?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
-        <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/2.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td class="chaordic-api-widget-product chaordic-api-widget-product-3" width="50%" align="center">
-      <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/3?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
-        <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/3.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
-      </a>
-    </td>
-    <td class="chaordic-api-widget-product chaordic-api-widget-product-4" width="50%" align="center">
-      <a href="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/go/4?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%&utm_campaign=chaordic" target="_blank">
-        <img src="http://chaordicmail.emkt.elo7.com.br/api/v1/a67662247dc8ea997cd5d3675a065b1b/show/4.png?filter=tudo&layout=daily&shot_id=%%jobid%%&to=%%emailaddr%%" />
-      </a>
-    </td>
-  </tr>
-</table>
-<!-- /Chaordic --> 
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-                                            
-			
-              
-              
-            <!-- lojista -->
-<table width="100%" height="auto" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
-    <tbody>
-        <tr>
-            <td width="100%" height="1" style="background-color:#e3e3e3;"></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <a href="http://elo7.com.br/newUserAccount.do?userType=seller" target="_blank" alias="Lojista" alt="Lojista" style="text-decoration: none;">
-                    <img src="http://files.elo7.com.br.s3.amazonaws.com/_2015/emkt/base/lojista.jpg" width="435" height="30" alt="Quer vender suas criações no Elo7?" border="0" style="display:block;" />
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<!-- /lojista -->
-
-<!-- Social -->
-<table width="100%" height="70" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f8f8f8">
-    <tbody>
-        <tr>
-            <td width="100%" height="1" style="background-color:#e3e3e3;" align="center"></td>
-        </tr>
-        <tr>
-            <td height="15"></td>
-        </tr>        
-        <tr>
-            <td align="center">
-                <table width="100%" height="auto" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="#f8f8f8">
-                    <tr>
-                        <td align="center" class="botaopadding">
-                            <a href="https://www.facebook.com/Elo7br" alias="facebook" alt="facebook" style="text-decoration:none; padding-right: 20px;">
-                                <img src="http://images.elo7.com.br/2015/emkt/base/v3/facebook.png" alt="facebook" title="facebook" border="0" />
-                            </a>
-
-                            <a href="http://instagram.com/elo7br" alias="instagram" alt="instagram" style="text-decoration:none; padding-right: 20px;">
-                                <img src="http://images.elo7.com.br/2015/emkt/base/v3/instagram.png" alt="instagram" title="instagram" border="0" />
-                            </a>
-
-                            <a href="http://elo7.me/youtube_elo7" alias="youtube" alt="youtube" style="text-decoration:none; padding-right: 20px;">
-                                <img src="http://images.elo7.com.br/2015/emkt/base/v3/youtube.png" alt="youtube" title="youtube" border="0" />
-                            </a>
-
-                            <a href="http://pinterest.com/elo7br" alias="pinterest" alt="pinterest" style="text-decoration:none; padding-right: 20px;">
-                                <img src="http://images.elo7.com.br/2015/emkt/base/v3/pinterest.png" alt="pinterest" title="pinterest" border="0" />
-                            </a>
-
-                            <a href="http://blog.elo7.com.br/" alias="blog" alt="blog" style="text-decoration:none">
-                                <img src="http://images.elo7.com.br/2015/emkt/base/v3/blog.png" alt="blog" title="blog" border="0" />
-                            </a>                            
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<!-- /Social --> 
-
-<!-- Disclaimer footer -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#f8f8f8">
-    <tbody>
-        <tr>
-            <td width="20"></td>
-            <td>
-                <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" bgcolor="#f8f8f8">
-                    <tr>
-                        <td height="15"></td>
-                    </tr>
-                    <tr>
-                        <td align="center">
-                            <p align="center" style="font-family:'Arial', Helvetica, sans-serif; font-size:12px; line-height:15px; color:#524947 ">
-                                Você recebeu esta mensagem, pois aceitou receber e-mails promocionais do Elo7. Se não quiser mais receber e-mails, <a href="%%unsub_center_url%%" alias="Descadastre-se da Elo7" alt="Descadastre-se da Elo7" style="color:#E76A25; font-size: 12px;">descadastre-se</a>.
-                            </p>
-                            <p align="center" style="font-family:'Arial', Helvetica, sans-serif; font-size:12px; line-height:15px; color:#524947 ">
-                                Dúvidas? Acesse a <a href="https://elo7.zendesk.com/anonymous_requests/new" alias="Atendimento" alt="Atendimento" style="font-family:Arial, Helvetica, sans-serif;font-size:12px; color: #E76A25 ;">Central de Atendimento.</a>
-                            </p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td height="25"></td>
-                    </tr>
-                </table>
-            </td>
-            <td width="20"></td>
-        </tr>
-    </tbody>
-</table>
-<!-- /Disclaimer footer -->
-
-<!-- Termos -->
-<table width="100%" height="auto" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-    <tbody>
-        <tr>
-            <td align="center">
-                <table width="100%" height="60" align="center" border="0" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#7d7873; text-align:center;" bgcolor="#ffffff">
-                    <tr>
-                        <td width="100%" align="center">*Os produtos com frete grátis, desconto e/ou pronta entrega foram selecionados para este email. Antes de comprar, confirme com o vendedor as condições, estoques e disponibilidade. Alguns preços de produtos podem ser de valor unitário. As ofertas podem ser alteradas sem aviso prévio.</td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<!-- /Termos -->  
-              
-              
-              
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        </td>
-									</tr>
-								</table>
-							<!--[if (gte mso 9)|(IE)]>
-							</td>
-						</tr>
-					</table>
-					<![endif]-->
-				</td>
-			</tr>
-		</table>
-	</body>
-</html>
+                                                                                                        </p>
+                                                                                                        <p align="center" style="font-family:'Arial', Helvetica, sans-serif; font-size:12px; line-height:15px; color:#524947 ">
+                                Dúvidas? Acesse a 
+                                                                                                          <a href="https://elo7.zendesk.com/anonymous_requests/new" alias="Atendimento" alt="Atendimento" style="font-family:Arial, Helvetica, sans-serif;font-size:12px; color: #E76A25 ;">Central de Atendimento.</a>
+                                                                                                        </p>
+                                                                                                      </td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                      <td height="25"></td>
+                                                                                                    </tr>
+                                                                                                  </table>
+                                                                                                </td>
+                                                                                                <td width="20"></td>
+                                                                                              </tr>
+                                                                                            </tbody>
+                                                                                          </table>
+                                                                                          <!-- /Disclaimer footer -->
+                                                                                          <!-- Termos -->
+                                                                                          <table width="100%" height="auto" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+                                                                                            <tbody>
+                                                                                              <tr>
+                                                                                                <td align="center">
+                                                                                                  <table width="100%" height="60" align="center" border="0" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#7d7873; text-align:center;" bgcolor="#ffffff">
+                                                                                                    <tr>
+                                                                                                      <td width="100%" align="center">*Os produtos com frete grátis, desconto e/ou pronta entrega foram selecionados para este email. Antes de comprar, confirme com o vendedor as condições, estoques e disponibilidade. Alguns preços de produtos podem ser de valor unitário. As ofertas podem ser alteradas sem aviso prévio.</td>
+                                                                                                    </tr>
+                                                                                                  </table>
+                                                                                                </td>
+                                                                                              </tr>
+                                                                                            </tbody>
+                                                                                          </table>
+                                                                                          <!-- /Termos -->
+                                                                                        </td>
+                                                                                      </tr>
+                                                                                    </table>
+                                                                                    <!--[if (gte mso 9)|(IE)]>
+                                                                                  </td>
+                                                                                </tr>
+                                                                              </table>
+                                                                              <![endif]-->
+                                                                            </td>
+                                                                          </tr>
+                                                                        </table>
+                                                                      </body>
+                                                                    </html>
